@@ -13,7 +13,7 @@
 
 - I like exploring new technologies, cooperating in developing interesting projects, finding better and simpler solutions🎲
  
-- In my free time I am becoming geology passionate🪨
+- In my free time I am geology passionate🪨
   
 <div align="center">
 
