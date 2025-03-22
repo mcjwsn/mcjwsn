@@ -19,7 +19,7 @@
 
 ## Technologies that i know or already worked with 🤟
 
-[![Languages](https://skillicons.dev/icons?i=java,py,cpp,git,bash,html,ts,css,anaconda,c,cmake,js,react,rust,express,visualstudio,discord,flask,gradle,haskell,kotlin,github,gmail,linux,md,mysql,nodejs,postman,pytorch,r,vim,vite,vscode,windows,apple,cs,dart,elixir,xd,emacs,githubactions,latex,linkedin,npm,maven)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=java,py,c,ts,js,git,bash,html,css,anaconda,cpp,cmake,react,rust,express,flask,gradle,haskell,kotlin,linux,md,mysql,nodejs,postman,pytorch,r,vite,vscode,github,elixir,latexnpm)](https://skillicons.dev)
 
 ## 🔥 Statistics
 
