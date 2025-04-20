@@ -23,4 +23,4 @@
 
 ## 🔥 Statistics
 
-![mcjwsn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcjwsn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=haskell,css,hcl,html,r,jupyter%20notebook&card_width=600)  
+![mcjwsn's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mcjwsn&theme=vue-dark&show_icons=true&hide_border=true&layout=compact&langs_count=8&hide=haskell,css,hcl,html,kotlin,jupyter%20notebook&card_width=600)  
