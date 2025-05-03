@@ -3,7 +3,7 @@
 
 ## Hi there 👋, I'm Maciek
 
-### CS Student / Software Developer
+### Computer Science Student / Software Developer
 
 
 ## About me:
