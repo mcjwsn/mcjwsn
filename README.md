@@ -9,11 +9,11 @@
 ## About me:
 </div>
 
-- Engineering student in Computer Science from the Faculty of Computer Science at the AGH University of Krakow👨‍🎓
+- Engineering student in Computer Science from the Faculty of Computer Science at the AGH University of Krakow
 
-- I like exploring new technologies, cooperating in developing interesting projects, finding better and simpler solutions🎲
+- I like exploring new technologies, cooperating in developing interesting projects, finding better and simpler solutions
  
-- In my free time I am geology passionate🪨
+- In my free time I am geology passionate
   
 <div align="center">
 
